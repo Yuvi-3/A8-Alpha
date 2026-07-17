@@ -20,12 +20,10 @@ There are some demos for the Astro-8, such as the pong game and a typing program
 ## Programming
 The two most supported ways to program for the computer is using the [assembly language](https://sam-astro.github.io/A8-Alpha-Computer/docs/Architecture/Instruction%20Set.html) or [Armstrong](https://sam-astro.github.io/A8-Alpha-Computer/docs/Programming/README.html).
 
-## Documentation
-[![Button Documentation]][Documentation] 
 
 ## Installation
 ### Windows
-1. Navigate to [the most recent release](https://github.com/sam-astro/A8-Alpha-Computer/releases), and download the **Windows** version
+1. Navigate to [the most recent release](https://github.com/Yuvi-3/A8-Alpha-Computer/releases), and download the **Windows** version
 2. Unzip the downloaded file
 ### Linux
 1. Make sure you have [SDL2 installed](https://wiki.libsdl.org/Installation#supported_platforms) on your system
@@ -34,7 +32,7 @@ The two most supported ways to program for the computer is using the [assembly l
 ```
 sudo apt-get install -y libsdl2-2.0-0 libsdl2-mixer-2.0-0
 ```
-2. Navigate to [the most recent release](https://github.com/sam-astro/A8-Alpha-Computer/releases), and download the **Linux** version
+2. Navigate to [the most recent release](https://github.com/Yuvi-3/A8-Alpha-Computer/releases), and download the **Linux** version
 3. Unzip the downloaded file
 ### From Source
 1. Clone this repository in a command line using `git clone https://github.com/sam-astro/A8-Alpha-Computer.git` OR by downloading the repository as a .ZIP file and unzipping it to your location of choice
